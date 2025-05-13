@@ -48,7 +48,10 @@ The Power BI dashboard is designed to visualize the key metrics derived from the
 - **Top Countries by Movies and TV Shows**
 - **Content Added by Year**
 
-You can explore the dashboard by opening the `bingewatch.pbix` file in Power BI.
+  ![image](https://github.com/user-attachments/assets/8af1880a-43cc-4bda-ba3b-63991b803508)
+
+
+Please explore the dashboard by opening the `bingewatch.pbix` file in Power BI.
 
 ### PostgreSQL and Power BI Integration:
 
